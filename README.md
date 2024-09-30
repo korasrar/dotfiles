@@ -25,3 +25,5 @@ My first ricing of arch LINUX
 **hyprland plugin themes features :** https://github.com/hyprland-community/awesome-hyprland (c'est trop cool ✨)
 
 **sddm keyboard layout :** https://www.reddit.com/r/kde/comments/k8rheb/is_there_a_way_to_change_the_keyboard_layout_in/
+
+**custom pretty >_< :** https://catppuccin.com/
