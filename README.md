@@ -23,3 +23,5 @@ My first ricing of arch LINUX
 **custom neofetch :** https://youtu.be/5JvZ6H2ppEI?si=1cEHjn9ljSjn8ap3
 
 **hyprland plugin themes features :** https://github.com/hyprland-community/awesome-hyprland (c'est trop cool ✨)
+
+**sddm keyboard layout :** https://www.reddit.com/r/kde/comments/k8rheb/is_there_a_way_to_change_the_keyboard_layout_in/
