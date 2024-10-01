@@ -14,9 +14,7 @@ My first ricing of arch LINUX
 | VSCode | **Editor** (https://wiki.archlinux.org/title/Visual_Studio_Code) |
 | Nemo | **File Manager** (https://wiki.archlinux.org/title/Nemo) |
 | P10K | **Prompt zsh themes** (https://github.com/romkatv/powerlevel10k) |
-
-
-
+| Dunst | **Notify Daemon** (https://github.com/dunst-project/dunst) |
 
 ## Link for me
 
@@ -27,3 +25,5 @@ My first ricing of arch LINUX
 **sddm keyboard layout :** https://www.reddit.com/r/kde/comments/k8rheb/is_there_a_way_to_change_the_keyboard_layout_in/
 
 **custom pretty >_< :** https://catppuccin.com/
+
+**change grub refresh rate :** https://askubuntu.com/questions/1514784/how-to-set-refresh-rate-for-grub-menu
