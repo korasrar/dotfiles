@@ -1,8 +1,3 @@
-# ARCH LINUX 💎
-
-My first ricing of arch LINUX
-
-
 ## Packages
 
 | Principal packages             | Type                                                                |
